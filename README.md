@@ -1,4 +1,5 @@
 # Arduino Numitron Clock
+This contains all of the files associated with the Babybird Numitron Clock using TPIC6B595N shift registers with IV-9 tubes.
 
 [![clock420.jpg](https://s1.postimg.org/3qeyrjngnz/clock420.jpg)](https://postimg.org/image/5zxzb1874r/)
 
@@ -40,4 +41,4 @@ https://www.ponoko.com/
 
 [![TPIC6_B595_N_Circuit.png](https://s1.postimg.org/5qrh0dywrj/TPIC6_B595_N_Circuit.png)](https://postimg.org/image/2e8r60icez/)
 
-This contains all of the files associated with the Babybird Numitron Clock using TPIC6B595N shift registers with IV-9 tubes.
+[![Clock_Image1.jpg](https://s1.postimg.org/1u2no1nyrz/Clock_Image1.jpg)](https://postimg.org/image/5dolduqojv/)
