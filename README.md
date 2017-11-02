@@ -2,7 +2,8 @@
 
 [![clock420.jpg](https://s1.postimg.org/3qeyrjngnz/clock420.jpg)](https://postimg.org/image/5zxzb1874r/)
 
-Parts required:
+Parts required in no particular order:
+
 1. 8 x 20 pin IC sockets  ($3.50 for 50)
 https://www.ebay.com/itm/50PCS-20-Pin-DIL-DIP-IC-Socket-PCB-Mount-Connector-NEW-GOOD-QUALITY/351492891851?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
 
@@ -15,7 +16,9 @@ https://www.ebay.com/itm/IV-9-numitron-nixie-tubes-lot-of-6-tested/322791591551?
 4. 2 standard arduino push buttons ($1.75 for 50)
 https://www.ebay.com/itm/50pcs-6-6-7mm-Tactile-Push-Button-Switch-4pin-Tact-Switch-4P-DIP-for-Arduino/162212052435?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
 
-5. 10 pin female header for pcb ($.50)
+5. 10 pin female header for pcb ($1.14 for a giant strip)
+https://www.ebay.com/itm/10PCS-40Pin-2-54mm-Single-Row-Straight-Female-Pin-Header-Strip-PBC-Arduino/201674778320?epid=1781023094&hash=item2ef4c0e6d0:g:n7kAAOSwOyJX5O~4
+
 6. DHT11 temperature and humidity sensor ($1.11)
 https://www.ebay.com/itm/1PCS-Arduino-DHT11-Temperature-and-Relative-Humidity-Sensor-Module-NEW/181846902071?epid=1279768341&hash=item2a56eb8537:g:uXsAAOSwzrxUu0El
 
