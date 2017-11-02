@@ -28,11 +28,13 @@ https://www.ebay.com/itm/1PCS-Arduino-DHT11-Temperature-and-Relative-Humidity-Se
 
 10. Clock PCB  ($27.00 for 10 plus shipping from seeed fusion)
 https://www.seeedstudio.com/fusion_pcb.html
+(use the gerber file attached)
 
 11. Arduino Uno ($3.00-$5.00)
 
 12. Wooden enclosure (Free from ponoko for first project + $7.99 shipping)
 https://www.ponoko.com/
+(use the svg file)
 
 [![Updated_PCB.png](https://s1.postimg.org/1hziceinu7/Updated_PCB.png)](https://postimg.org/image/1w5y39qyp7/)
 
