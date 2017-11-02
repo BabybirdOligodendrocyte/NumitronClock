@@ -1,4 +1,4 @@
-# NumitronClock
+# Arduino Numitron Clock
 
 [![clock420.jpg](https://s1.postimg.org/3qeyrjngnz/clock420.jpg)](https://postimg.org/image/5zxzb1874r/)
 
