@@ -1,5 +1,7 @@
 # Arduino Numitron Clock
-This contains all of the files associated with the Babybird Numitron Clock using TPIC6B595N shift registers with IV-9 tubes.
+This is my first electronics project with or without an arduino. The Clock uses an Arduino Uno with TPIC6B595N shift registers in order to control the IV-9 Numitron tubes. This github includes the parts list, arduino code, gerber file, svg file and instructions for assembly. This clock does not use an RTC in order to cutdown on parts, but one could be easily added to the arduino. The only known problems are cosmetic and as follows:
+1. The USB hole in the back of the wooden enclosure is smaller than most standard USB by a few mm.
+2. The DHT11 needs to be soldered flushly in order for the PCB to sit flat on the box.
 
 [![clock420.jpg](https://s1.postimg.org/3qeyrjngnz/clock420.jpg)](https://postimg.org/image/5zxzb1874r/)
 
@@ -42,3 +44,4 @@ https://www.ponoko.com/
 [![TPIC6_B595_N_Circuit.png](https://s1.postimg.org/5qrh0dywrj/TPIC6_B595_N_Circuit.png)](https://postimg.org/image/2e8r60icez/)
 
 [![Clock_Image1.jpg](https://s1.postimg.org/1u2no1nyrz/Clock_Image1.jpg)](https://postimg.org/image/5dolduqojv/)
+
