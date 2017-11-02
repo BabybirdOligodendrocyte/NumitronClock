@@ -39,9 +39,22 @@ https://www.seeedstudio.com/fusion_pcb.html
 https://www.ponoko.com/
 (use the svg file)
 
-[![Updated_PCB.png](https://s1.postimg.org/1hziceinu7/Updated_PCB.png)](https://postimg.org/image/1w5y39qyp7/)
+# In The Beginning
+
+[![Clock_Image1.jpg](https://s1.postimg.org/1u2no1nyrz/Clock_Image1.jpg)](https://postimg.org/image/5dolduqojv/)
+
+The clock was pretty easy to get working after some trial and error. Arduino pins 6, 8 and 10 are attached to the shift registers as shown in the image below. Then the drains are attached to the individual leads of the IV-9 tube. The image shows a 7 segment display being used, but the IV-9 is attached similarly with 100 ohm resistors except for the lead attached directly to power. The tubes are not soldered to the PCB and are instead inserted into the 20 pin ic sockets making it easy to replace them in the future if they burn out. You can also clip the leads down to whatever height you want before inserting them. 
 
 [![TPIC6_B595_N_Circuit.png](https://s1.postimg.org/5qrh0dywrj/TPIC6_B595_N_Circuit.png)](https://postimg.org/image/2e8r60icez/)
 
-[![Clock_Image1.jpg](https://s1.postimg.org/1u2no1nyrz/Clock_Image1.jpg)](https://postimg.org/image/5dolduqojv/)
+Below is an image of the PCB board included in the gerber file. 
+
+[![Updated_PCB.png](https://s1.postimg.org/1hziceinu7/Updated_PCB.png)](https://postimg.org/image/1w5y39qyp7/)
+
+R47, R45 and R44 on the PCB are 10k ohm resistors.
+All of the other resistors are 100 ohm. 
+
+
+
+In The BEGINN
 
