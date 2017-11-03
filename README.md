@@ -51,10 +51,23 @@ Below is an image of the PCB board included in the gerber file.
 
 [![Updated_PCB.png](https://s1.postimg.org/1hziceinu7/Updated_PCB.png)](https://postimg.org/image/1w5y39qyp7/)
 
-R47, R45 and R44 on the PCB are 10k ohm resistors.
-All of the other resistors are 100 ohm. 
+# Soldering the PCB
+
+1) Solder all of the resistors (except for R47, R45 and R44) with 100 ohm resistors
+2) Solder the 10k ohm resistors at R47, R45 and R44.
+3) Solder the 8 IC sockets onto the board.
+4) Solder the 10 pin female header on the opposite side of the board (so you don't have cables reach over the top later).
+5) Solder the tactile buttons (B1, B2) and DHT11.
+6. Solder the .1uf capacitor at C1.
+
+Notice the orientation of the TPIC6B595N on the board before inserting into the IC socket
+The lights are inserted into the IC sockets with the main cathode being connected to the front right socket. 
+
+# Arduino Code
+
+Once you have finished soldering you can upload the arduino code and connect the arduino to the female pin headers on the PCB. 
+
+You should now have a working clock. In order to change the time hold B2 for 1 second and release to change hours. Simply press B2 to change minutes. Pressing B1 will bring up the temperature and humidity. 
 
 
-
-In The BEGINN
 
